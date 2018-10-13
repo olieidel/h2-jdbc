@@ -1,4 +1,4 @@
-(defproject io.eidel/h2-jdbc "0.1.0-SNAPSHOT"
+(defproject io.eidel/h2-jdbc "1.0.0"
   :author "Oliver Eidel <http://www.eidel.io>"
   :description "Java 8 data types for the H2 database via JDBC."
   :url "https://github.com/olieidel/h2-jdbc"

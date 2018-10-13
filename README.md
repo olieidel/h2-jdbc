@@ -1,5 +1,5 @@
 ``` clojure
-[io.eidel/h2-jdbc "0.1.0-SNAPSHOT"]
+[io.eidel/h2-jdbc "1.0.0"]
 ```
 
 # h2-jdbc
